@@ -6,5 +6,7 @@ Quick implementation of ChatGPT in Python. Rename config.py.example to config.py
 
 ```
 pip install openai
+pip install colorama
+pip install rich
 python main.py
 ```
