@@ -1,4 +1,10 @@
 __pycache__/
 .idea/
 venv/
+chats/
+audios/
 config.py
+*.mp3
+*.ogg
+*.wav
+*.png

@@ -1,3 +1,8 @@
 api_key = "OPENAPI API KEY"
 model = "gpt-3.5-turbo"
 display_token_usage = False
+markdown_enabled = True
+telegram_key = "TELEGRAM API KEY"
+telegram_whitelist = []
+translate_voice = False
+sysrole = ""
